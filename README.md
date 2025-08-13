@@ -59,7 +59,7 @@ Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Securi
 - [Microsoft Sentinel Implementation – Threat Hunting Lab](https://github.com/Jays-Cloud/microsoft-sentinel-implementation)  
 - [Secure Azure Storage Account (Terraform) – IaC Security Controls](link-to-repo-or-doc)  
 - [Identity Zero Trust – IAM & Conditional Access Policies](link-to-repo-or-doc)  
-- [Azure Firewall Implementation – Network Security & NAT Rules](link-to-repo-or-doc)  
+- [Azure Firewall Implementation – Network Security & NAT Rules](https://github.com/Jays-Cloud/azure-firewall-implementation)  
 - [Windows Server & AD File Sharing – Role-Based Access Setup](link-to-repo-or-doc)
 
 
