@@ -34,10 +34,9 @@ Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Securi
 **In Progress / Planned:**  
 - Microsoft Certified: Azure Security Engineer Associate (AZ-500)  
 - Microsoft Certified: Cybersecurity Architect Expert (SC-100)  
-- CompTIA Cybersecurity Analyst (CySA+)  
-- CompTIA Project+  
-- Linux Essentials
+- CompTIA Cybersecurity Analyst (CySA+)
 - CrowdStrike Certified Identity Specialist (CCIS)
+- Splunk Power User
 - CISSP
 
  ## Education
