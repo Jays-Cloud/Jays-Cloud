@@ -54,7 +54,7 @@ Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Securi
 
 ## Writing
 
-- [Incident Handling with Splunk – Lab Walkthrough](link-to-repo-or-doc)  coming soon...
+- [Incident Handling with Splunk – Lab Walkthrough](https://github.com/Jays-Cloud/incident-handling-with-splunk)
 - [Microsoft Sentinel Implementation – Threat Hunting Lab](https://github.com/Jays-Cloud/microsoft-sentinel-implementation)  
 - [Secure Azure Storage Account (Terraform) – IaC Security Controls](https://github.com/Jays-Cloud/secure-azure-storage-terraform)  
 - [Identity Zero Trust – IAM & Conditional Access Policies](link-to-repo-or-doc)  coming soon...
