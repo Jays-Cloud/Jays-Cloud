@@ -32,12 +32,12 @@ Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Securi
 - Microsoft Certified: Azure Administrator Associate (AZ-104)  
 
 **In Progress / Planned:**  
-- Microsoft Certified: Azure Security Engineer Associate (AZ-500)  
-- Microsoft Certified: Cybersecurity Architect Expert (SC-100)  
+- Microsoft Certified: Azure Security Engineer Associate (AZ-500)    
 - CompTIA Cybersecurity Analyst (CySA+)
-- CrowdStrike Certified Identity Specialist (CCIS)
-- Splunk Power User
-- CISSP
+- Splunk Enterprise Security Certified Admin (Advanced)
+- Certified Governance, Risk, and Compliance (CGRC)
+- Microsoft Certified: Cybersecurity Architect Expert (SC-100)
+- Certified Information Systems Security Professional (CISSP)
 
  ## Education
 - Planned: B.S. Cybersecurity and Information Assurance — Western Governors University (WGU)
