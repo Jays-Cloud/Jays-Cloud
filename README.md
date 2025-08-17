@@ -31,7 +31,7 @@ Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Securi
 - CompTIA Network+  
 - Microsoft Certified: Azure Administrator Associate (AZ-104)  
 
-**In Progress / Planned:**  (2 Year Plan)
+**In Progress / Planned:**  (3 Year Plan)
 - Microsoft Certified: Azure Security Engineer Associate (AZ-500) (Expected August)   
 - CompTIA Cybersecurity Analyst (CySA+) (Expected September)
 - Certified Governance, Risk, and Compliance (CGRC) (Expected October)
