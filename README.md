@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeremy--hernandez-blue)](#)
 [![Certs](https://img.shields.io/badge/Certs-Security%2B%20%7C%20Network%2B%20%7C%20AZ--104%20%7C%20AZ--500-4c1)](#)
 [![Azure](https://img.shields.io/badge/Cloud-Azure-informational)](#)
-[![Focus](https://img.shields.io/badge/Focus-Cloud%20Security%20%7C%20IAM%20%7C%20DevSecOps-brightgreen)](#)
+[![Focus](https://img.shields.io/badge/Focus-Security%20Engineer%20%7C%20Cloud%20Security%20%7C%20IAM%20%7C%20DevSecOps-brightgreen)](#)
+
 
 Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Security Engineer. My projects and labs span Splunk analysis, blue team operations, threat hunting, Microsoft Defender, Sentinel, and Endpoint Security. I work extensively with Azure, IAM, and cloud security controls, building defensible-by-default environments using IaC, policy, and automation.
 
