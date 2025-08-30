@@ -49,7 +49,7 @@ Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Securi
 -  **Secure Azure Storage Account (Terraform)** — Provisioned StorageV2 with ZRS, enforced HTTPS, encryption, versioning, and retention policies using Terraform. 
 - **Identity Zero Trust** — Conditional Access, PIM, access reviews & lifecycle automation.  
 - **Azure Firewall Implementation** — Deployed VNet, configured Network/Application/NAT rules, and enforced UDRs to secure inbound/outbound traffic.
-- **Windows Server & AD File Sharing** — Configured Domain Controller, NTFS/share permissions, and AD security groups on an Azure VM for secure, role-based access.
+- **Azure Key Vault — Always Encrypted SQL Database** — Always Encrypted with Azure SQL Database using Azure Key Vault.
 
 ➡️ Scroll down for links to the repos (pinned).
 
@@ -60,7 +60,7 @@ Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Securi
 - [Secure Azure Storage Account (Terraform) – IaC Security Controls](https://github.com/Jays-Cloud/secure-azure-storage-terraform)  
 - [Identity Zero Trust – IAM & Conditional Access Policies](link-to-repo-or-doc)  coming soon...
 - [Azure Firewall Implementation – Network Security & NAT Rules](https://github.com/Jays-Cloud/azure-firewall-implementation)  
-- [Windows Server & AD File Sharing – Role-Based Access Setup](https://github.com/Jays-Cloud/windows-server-ad-file-sharing/tree/main)
+- [Azure Key Vault — Always Encrypted SQL Database](https://github.com/Jays-Cloud/azure-keyvault-always-encrypted-sql)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/jeremy-hernandez-122ab0225/
