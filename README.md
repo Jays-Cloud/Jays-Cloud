@@ -33,7 +33,7 @@ Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Securi
 - Microsoft Certified: Azure Administrator Associate (AZ-104)  
 
 **In Progress / Planned:**  (3 Year Plan)
-- Microsoft Certified: Azure Security Engineer Associate (AZ-500) (Expected August)   
+- Microsoft Certified: Azure Security Engineer Associate (AZ-500) (Expected Sep 12th)   
 - CompTIA Cybersecurity Analyst (CySA+) (Expected September)
 - Certified Governance, Risk, and Compliance (CGRC) (Expected October)
 - AWS Certified Security – Specialty (Expected 2026 at WGU)
