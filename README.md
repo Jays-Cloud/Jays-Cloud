@@ -61,6 +61,7 @@ Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Securi
 - [Identity Zero Trust – IAM & Conditional Access Policies](link-to-repo-or-doc)  coming soon...
 - [Azure Firewall Implementation – Network Security & NAT Rules](https://github.com/Jays-Cloud/azure-firewall-implementation)  
 - [Azure Key Vault — Always Encrypted SQL Database](https://github.com/Jays-Cloud/azure-keyvault-always-encrypted-sql)
+- [Home Enterprise Lab Projects](https://github.com/Jays-Cloud/Project-Nebula-Jays-Homelab)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/jeremy-hernandez-122ab0225/
