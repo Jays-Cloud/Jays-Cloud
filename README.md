@@ -1,12 +1,15 @@
-# Jeremy Hernandez — Cloud & Security Engineer
+# Jeremy Hernandez — Cloud Security Engineer | Cloud Security Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeremy--hernandez-blue)](#)
 [![Certs](https://img.shields.io/badge/Certs-Security%2B%20%7C%20Network%2B%20%7C%20AZ--104%20%7C%20AZ--500-4c1)](#)
-[![Azure](https://img.shields.io/badge/Cloud-Azure-informational)](#)
-[![Focus](https://img.shields.io/badge/Focus-Security%20Engineer%20%7C%20Cloud%20Security%20%7C%20IAM%20%7C%20DevSecOps-brightgreen)](#)
+[![Cloud](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-informational)](#)
+[![Focus](https://img.shields.io/badge/Focus-Cloud%20Security%20%7C%20Architecture-brightgreen)](#)
 
 
-Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Security Engineer. My projects and labs span Splunk analysis, blue team operations, threat hunting, Microsoft Defender, Sentinel, and Endpoint Security. I work extensively with Azure, IAM, and cloud security controls, building defensible-by-default environments using IaC, policy, and automation.
+Hi! I’m Jeremy, a Systems Technician transitioning into Cloud Security.  
+My short-term goal is to grow into a **Cloud Security Engineer** role, gaining deep hands-on experience in securing cloud environments.  
+Long-term, I’m working toward becoming a **Cloud Security Architect**, designing secure, scalable, and policy-driven cloud infrastructures.
+
+My projects and labs span Splunk analysis, blue team operations, threat hunting, Microsoft Defender, Sentinel, and endpoint security. I work extensively with **Azure**, **IAM**, and **cloud security controls**, building defensible-by-default environments through **Infrastructure as Code**, **policy**, and **automation**.
 
 ## What I’m focusing on
 - Cloud security architecture (Azure-focused, Zero Trust, governance, compliance)  
@@ -30,18 +33,36 @@ Hi! I’m Jeremy — a Systems Technician on the path to becoming a Cloud Securi
 - Google IT Support Professional  
 - CompTIA Security+  
 - CompTIA Network+  
-- Microsoft Certified: Azure Administrator Associate (AZ-104)  
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: Azure Security Engineer Associate (AZ-500)
 
 **In Progress / Planned:**  (3 Year Plan)
-- Microsoft Certified: Azure Security Engineer Associate (AZ-500) (Expected Sep 12th)   
-- CompTIA Cybersecurity Analyst (CySA+) (Expected September)
-- Certified Governance, Risk, and Compliance (CGRC) (Expected October)
-- AWS Certified Security – Specialty (Expected 2026 at WGU)
+
+**2025 Roadmap**
+- Certified Cloud Security Professional (CCSP) (Expected November)
+
+**2026 Roadmap**
+- AWS Certified Security – Specialty (Expected January 2026)
+- Certified Information Systems Security Professional (CISSP) (Expected March 2026)
+
+**2027 Roadmap**
+- AWS Certified Solutions Architect – Professional (Expected 2027)
 - Microsoft Certified: Cybersecurity Architect Expert (SC-100) (Expected 2027)
-- Certified Information Systems Security Professional (CISSP) (Expected 2027)
+- Terraform Associate (HashiCorp) (Expected 2027)
+
+### 🧠 Career-Anchor (Keep Forever)
+These are the core certifications I plan to maintain throughout my career (once achieved). They align with senior Cloud Architect, Cloud Security Architect, and leadership roles.
+
+- 🧠 **CISSP (ISC)²**  
+- ☁️ **CCSP (ISC)²**  
+- 🏗 **AZ-305: Azure Solutions Architect Expert**  
+- 🛡 **SC-100: Microsoft Cybersecurity Architect Expert**  
+- ☁️ **AWS Certified Solutions Architect – Professional**  
+- ☁️ **AWS Certified Security – Specialty**  
+- 🧠 **Terraform Associate (HashiCorp)**
 
  ## Education
-- Planned: B.S. Cybersecurity and Information Assurance — Western Governors University (WGU) (Expected Winter 2026)
+- Planned: B.S. in Cloud Computing — Western Governors University (WGU) (Expected Winter 2026)
 
 ## Featured Projects
 - **Incident Handling with Splunk** — Analyzed simulated attack scenarios, leveraged OSINT, tracked activity via Cyber Kill Chain, and built Splunk queries to detect IOCs.  
