@@ -62,7 +62,7 @@ These are the core certifications I plan to maintain throughout my career (once 
 - 🧠 **Terraform Associate (HashiCorp)**
 
  ## Education
-- Planned: B.S. in Cloud Computing — Western Governors University (WGU) (Expected Winter 2026)
+- **Planned: B.S. in Cloud Computing — Western Governors University (WGU) (Expected Winter 2026)**
 
 ## Featured Projects
 - **Incident Handling with Splunk** — Analyzed simulated attack scenarios, leveraged OSINT, tracked activity via Cyber Kill Chain, and built Splunk queries to detect IOCs.  
