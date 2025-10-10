@@ -14,7 +14,7 @@ My projects and labs span Splunk analysis, blue team operations, threat hunting,
 ## What I’m focusing on
 - Cloud security architecture (Azure-focused, Zero Trust, governance, compliance)  
 - Threat hunting with Splunk, Microsoft Sentinel, and KQL  
-- Endpoint & email security hardening (Defender for Endpoint, M365D, vulnerability management)  
+- Endpoint & email security hardening (Defender for Endpoint, MS365, vulnerability management)  
 - Blue team operations & incident response playbooks (Logic Apps, SOAR automation)  
 - Infrastructure as Code (Terraform) and CI/CD with GitHub Actions  
 - Identity & Access Management (IAM) governance and automation (Entra ID, CA, PIM, access reviews)  
